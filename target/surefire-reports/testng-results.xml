@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="1694" started-at="2021-05-19T16:22:48 IST" finished-at="2021-05-19T16:22:50 IST">
+  <suite name="Suite" duration-ms="2300" started-at="2021-05-19T16:39:08 IST" finished-at="2021-05-19T16:39:10 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="1694" started-at="2021-05-19T16:22:48 IST" finished-at="2021-05-19T16:22:50 IST">
+    <test name="Test" duration-ms="2300" started-at="2021-05-19T16:39:08 IST" finished-at="2021-05-19T16:39:10 IST">
       <class name="com.utils.GetCitiesTest">
-        <test-method status="PASS" signature="getCitiesList(java.lang.String)[pri:0, instance:com.utils.GetCitiesTest@192b07fd]" name="getCitiesList" duration-ms="1671" started-at="2021-05-19T16:22:48 IST" finished-at="2021-05-19T16:22:50 IST">
+        <test-method status="PASS" signature="getCitiesList(java.lang.String)[pri:0, instance:com.utils.GetCitiesTest@192b07fd]" name="getCitiesList" duration-ms="2276" started-at="2021-05-19T16:39:08 IST" finished-at="2021-05-19T16:39:10 IST">
           <params>
             <param index="0">
               <value>

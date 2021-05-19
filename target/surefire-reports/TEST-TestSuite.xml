@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="1.973" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="2.587" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -20,7 +20,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/surefire/surefirebooter6368208285412687527.jar /Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/surefire 2021-05-19T16-22-48_238-jvmRun1 surefire1652366390243298406tmp surefire_01426860264974175429tmp"/>
+    <property name="sun.java.command" value="/Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/surefire/surefirebooter5949298686090787365.jar /Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/surefire 2021-05-19T16-39-07_920-jvmRun1 surefire1777035369725202340tmp surefire_03278676291532448052tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="surefire.test.class.path" value="/Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/test-classes:/Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/classes:/Users/amruthv/.m2/repository/io/rest-assured/rest-assured/4.3.3/rest-assured-4.3.3.jar:/Users/amruthv/.m2/repository/org/codehaus/groovy/groovy/3.0.7/groovy-3.0.7.jar:/Users/amruthv/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.7/groovy-xml-3.0.7.jar:/Users/amruthv/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/amruthv/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/amruthv/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/amruthv/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/amruthv/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/amruthv/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/amruthv/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/amruthv/.m2/repository/io/rest-assured/json-path/4.3.3/json-path-4.3.3.jar:/Users/amruthv/.m2/repository/org/codehaus/groovy/groovy-json/3.0.7/groovy-json-3.0.7.jar:/Users/amruthv/.m2/repository/io/rest-assured/rest-assured-common/4.3.3/rest-assured-common-4.3.3.jar:/Users/amruthv/.m2/repository/io/rest-assured/xml-path/4.3.3/xml-path-4.3.3.jar:/Users/amruthv/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/amruthv/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/amruthv/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/amruthv/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/Users/amruthv/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/Users/amruthv/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/Users/amruthv/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/surefire/surefirebooter6368208285412687527.jar"/>
+    <property name="surefire.real.class.path" value="/Users/amruthv/Documents/EclipseWorkspace/verivox-api-automation/target/surefire/surefirebooter5949298686090787365.jar"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
@@ -65,5 +65,5 @@
     <property name="java.class.version" value="52.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="getCitiesList" classname="com.utils.GetCitiesTest" time="1.672"/>
+  <testcase name="getCitiesList" classname="com.utils.GetCitiesTest" time="2.278"/>
 </testsuite>
