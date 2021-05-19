@@ -11,7 +11,7 @@
 # Steps to run the project 
 
 1. cd to project directory
-2. run command: "mvn clean test -DpostalCode=<postalCode> -DsuiteXmlFile=testng.xml"
+2. run command: "mvn clean test -DpostalCode=postalCode -DsuiteXmlFile=testng.xml"
 
-#Note
-1. Replace "<postalCode>" with 10409/77716
+# Note
+1. Replace "postalCode" with 10409/77716
