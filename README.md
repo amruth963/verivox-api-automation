@@ -14,4 +14,4 @@
 2. run command: "mvn clean test -DpostalCode=<postalCode> -DsuiteXmlFile=testng.xml"
 
 #Note
-Replace <postalCode> with 10409/77716
+1. Replace "<postalCode>" with 10409/77716
